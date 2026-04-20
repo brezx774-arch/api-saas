@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "123456",
+      "apiKey": "sk_live_test"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "1301aa1361e75812b3be0083cfa5c4c7f685732595400119",
+      "email": "test@test.com"
+    }
+  ]
+}
